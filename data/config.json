@@ -1,0 +1,16 @@
+{
+ "discord": {
+  "apiVersion": "9",
+  "webhooks": {
+   "successful": "https://ptb.discord.com/api/webhooks/1151898753964458148/oMbq64Ifxq7-leVoLWRcytmvUSMRQPuuQz_i-Ltv8I97wNe4g_1O5m7h_nG0NeEyWnxC",
+   "missed": "https://ptb.discord.com/api/webhooks/1151898753964458148/oMbq64Ifxq7-leVoLWRcytmvUSMRQPuuQz_i-Ltv8I97wNe4g_1O5m7h_nG0NeEyWnxC",
+   "embedMedia": ""
+  }
+ },
+ "sniper": {
+  "saveInvites": true,
+  "snipeOnMain": true,
+  "noInfo": false,
+  "threads": 10
+ }
+}
